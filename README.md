@@ -9,18 +9,19 @@ In this repository provided my solutions of CodeChef LongChallenge problems.
 
 
 ## 10-days-codeChef-May-Challenge
-|№|Title|Solution|Difficulty|
+|Code|Title|Solution|Difficulty|
 | ----: | --- | --- | --- |
-|520.|[Detect Capital](https://leetcode.com/problems/detect-capital/)|[Python](/Week%201/520.DetectCapital.py)|Easy|
-|705.|[Design HashSet](https://leetcode.com/problems/design-hashset/)|[Python](/Week%201/705.DesignHashSet.py)|Easy|
-|125.|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Python](/Week%201/125.ValidPalindrome.py)|Easy|
-|342.|[Power of Four](https://leetcode.com/problems/power-of-four/)|[Python](/Week%201/342.PowerofFour.py)|Easy|
-|211.|[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)|[Python](/Week%201/211.AddandSearchWord-Datastructuredesign.py)|Medium|
-|442.|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[Python](/Week%201/442.FindAllDuplicatesinanArray.py)|Medium|
-|987.|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[Python](/Week%201/987.VerticalOrderTraversalofaBinaryTree.py)|Medium|
+|COVID19|[Coronavirus Spread](https://www.codechef.com/MAY20B/problems/COVID19)|[C++](/Week%201/520.DetectCapital.py)|Easy|
+|CORUS|[Isolation Centers](https://www.codechef.com/MAY20B/problems/CORUS)|[C++](/Week%201/705.DesignHashSet.py)|Easy|
+|TRPLSRT|[Triple Sort](https://www.codechef.com/MAY20B/problems/TRPLSRT)|[Python](/Week%201/125.ValidPalindrome.py)|Easy|
+|CHANDF|[Power of Four](https://leetcode.com/problems/power-of-four/)|[Python](/Week%201/342.PowerofFour.py)|Easy|
+|SORTVS|[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)|[Python](/Week%201/211.AddandSearchWord-Datastructuredesign.py)|Medium|
+|NBOTS|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[Python](/Week%201/442.FindAllDuplicatesinanArray.py)|Medium|
+|NRWP|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[Python](/Week%201/987.VerticalOrderTraversalofaBinaryTree.py)|Medium|
+|TWOSTRS|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[Python](/Week%201/987.VerticalOrderTraversalofaBinaryTree.py)|Medium|
 
 ## 10-days-codeChef-June-Challenge
-|№|Title|Solution|Difficulty|
+|Code|Title|Solution|Difficulty|
 | ----: | --- | --- | --- |
 |437.|[Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[Python](/Week%202/437.PathSumIII.py)|Medium|
 |994.|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[Python](/Week%202/994.RottingOranges.py)|Medium|
@@ -31,7 +32,7 @@ In this repository provided my solutions of CodeChef LongChallenge problems.
 |409.|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[Python](/Week%202/409.LongestPalindrome.py)|Easy|
 
 ## 10-days-codeChef-July-Challenge
-|№|Title|Solution|Difficulty|
+|Code|Title|Solution|Difficulty|
 | ----: | --- | --- | --- |
 |435.|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)|[Python](/Week%203/435.Non-overlappingIntervals.py)|Medium|
 |123.|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|[Python](/Week%203/123.BestTimetoBuyandSellStockIII.py)|Hard|
@@ -43,7 +44,7 @@ In this repository provided my solutions of CodeChef LongChallenge problems.
 
 
 ## 10-days-codeChef-August-Challenge
-|№|Title|Solution|Difficulty|
+|Code|Title|Solution|Difficulty|
 | ----: | --- | --- | --- |
 |497.|[Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/)|[Python](/Week%204/497.RandomPointinNon-overlappingRectangles.py)|Medium|
 |1032.|[Stream of Characters](https://leetcode.com/problems/stream-of-characters/)|[Python](/Week%204/1032.StreamofCharacters.py)|Hard|
@@ -54,7 +55,7 @@ In this repository provided my solutions of CodeChef LongChallenge problems.
 |470.|[Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/)|[Python](/Week%204/470.ImplementRand10()UsingRand7().py)|Medium|
 
 ## 10-days-codeChef-September-Challenge
-|№|Title|Solution|Difficulty|
+|Code|Title|Solution|Difficulty|
 | ----: | --- | --- | --- |
 |969.|[Pancake Sorting](https://leetcode.com/problems/pancake-sorting/)|[Python](/Week%205/969.PancakeSorting.py)|Medium|
 |952.|[Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/)|[Python](/Week%205/952.LargestComponentSizebyCommonFactor.py)|Hard|
